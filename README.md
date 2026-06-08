@@ -41,8 +41,6 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
-
-
 a.  KVL:
  <img width="1177" height="821" alt="Screenshot 2026-06-08 085212" src="https://github.com/user-attachments/assets/89b509ef-d827-4b1c-95c8-969b6664881d" />
 
@@ -67,7 +65,6 @@ b.  KCL:
 
 
 Tabulation:
-
 a.   KVL:
 <img width="521" height="164" alt="Screenshot 2026-06-08 085818" src="https://github.com/user-attachments/assets/62036c53-d7aa-4b0f-a225-2702af4af6b1" />
 
